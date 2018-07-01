@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#3F51B5</color>
+    <color name="colorAccent">@color/light_teal</color>
+
+    <color name="turquoise">#0ac4ba</color>
+    <color name="greenblue">#2bda8e</color>
+    <color name="light_teal">#aad2ed</color>
+    <color name="white">#ffffff</color>
+</resources>

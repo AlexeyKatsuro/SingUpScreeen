@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">BalinaSoft</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sing_up">Sing up</string>
+
+    <string name="email_enter_requirement">Enter a email!</string>
+    <string name="email_invalid">Not a valid email address!</string>
+
+
+    <string name="password_enter_requirement">Enter a password!</string>
+    <string name="password_length_requirement">The Password should be not less than %d  and not bigger than %d character!</string>
+
+
+    <string-array name="email_domains_array">
+        <item>\@gmail.com</item>
+        <item>\@yahoo.com</item>
+        <item>\@yandex.ru</item>
+        <item>\@mail.ru</item>
+        <item>\@live.com</item>
+        <item>\@outlook.com</item>
+        <item>\@hotmail.com</item>
+        <item>\@adinet.com.uy</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </string-array>
+
+</resources>

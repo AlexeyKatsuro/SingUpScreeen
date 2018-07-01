@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="email">Email</string>
+    <string name="password">Пароль</string>
+    <string name="sing_up">Регистрация</string>
+
+
+    <string name="email_enter_requirement">Введите адрес электронной почты!</string>
+    <string name="email_invalid">Недействительный адрес электронной почты!</string>
+
+
+    <string name="password_enter_requirement">Введите пароль</string>
+    <string name="password_length_requirement">Пароль должен быть не менее %d и не более %d символов</string>
+</resources>
